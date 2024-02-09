@@ -1,0 +1,12 @@
+langchain 
+openai 
+tiktoken 
+langchain_openai
+redis[hiredis]
+python-dotenv
+huggingface_hub
+langchainhub
+langserve[all]
+fastapi
+pydantic==1.10.13
+uvicorn
